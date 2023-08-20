@@ -14,5 +14,3 @@ members:
 
 fetch : this
 new-branch: this
-
-.
